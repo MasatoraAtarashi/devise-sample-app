@@ -3,6 +3,7 @@ deviseを利用したRailsアプリケーションのサンプル
 
 # Usage
 > $docker-compose build
+
 > $docker-compose up
 
-- access http:localhost:300
+- access http:localhost:3000
