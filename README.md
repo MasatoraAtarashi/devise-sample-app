@@ -12,4 +12,4 @@ deviseを利用したRailsアプリケーションのサンプル
 
 > $docker-compose up
 
-- access http:localhost:3000
+- access http://localhost:3000
